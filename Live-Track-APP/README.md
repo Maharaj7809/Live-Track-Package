@@ -62,4 +62,4 @@ export const widget =()=> {
 
 ## Github
 
-- Go to [Live Track JS](https://github.com/Kunal-jaiswal972/LiveTrackJS/) to know more.
+- Go to [Live Track JS](https://github.com/Maharaj7809/Live-Track-Package/) to know more.
